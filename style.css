@@ -1,0 +1,49 @@
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: blanchedalmond;
+}
+.ccr{
+    color:green;
+    font-size:50px;
+}
+
+.ccr:hover{
+    background-color: yellowgreen;
+}
+
+#ingred{
+    background-color: #f1ebeb;
+    box-sizing: border-box;
+    width: 300px;
+    padding: 30px;
+    border: 10px solid #f3eef3;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#steps{
+    background-color: #f1ebeb;
+    box-sizing: border-box;
+    width: 300px;
+    padding: 30px;
+    border: 10px solid #f3eef3;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title{
+   color: lightcoral;
+   font-family: cursive;
+}
+
+#footer{
+    background-color: blanchedalmond;
+    color:red;
+    font-size:larger
+}
